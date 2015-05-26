@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.querySelector(".movie").innerHTML= "";
     var input = document.querySelector('input').value;
     var movieSearch = new XMLHttpRequest();
-    movieSearch.open('get', 'http://omdbapi.com/?s=' + encodeURIComponent(input), true);
+    movieSearch.open('get', 'https://omdbapi.com/?s=' + encodeURIComponent(input), true);
     movieSearch.addEventListener('load', function(response){
       var res =  JSON.parse(this.response).Search;
       for(var i = 0; i < res.length; i++){
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         node.addEventListener('click', function(){
           document.querySelector(".movie").innerHTML = "";
           var details = new XMLHttpRequest();
-          details.open('get', 'http://omdbapi.com/?t=' + this.innerHTML, true);
+          details.open('get', 'https://omdbapi.com/?t=' + this.innerHTML, true);
           details.addEventListener('load', function(response){
           var responses = ["Title", "Year", "Rated", "Genre", "Plot"];
             for(var j = 0; j < responses.length; j++){
