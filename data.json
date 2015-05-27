@@ -1,22 +1,58 @@
-{
-Title: "Batman Begins",
-Year: "2005",
-Rated: "PG-13",
-Released: "15 Jun 2005",
-Runtime: "140 min",
-Genre: "Action, Adventure",
-Director: "Christopher Nolan",
-Writer: "Bob Kane (characters), David S. Goyer (story), Christopher Nolan (screenplay), David S. Goyer (screenplay)",
-Actors: "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes",
-Plot: "After training with his mentor, Batman begins his war on crime to free the crime-ridden Gotham City from corruption that the Scarecrow and the League of Shadows have cast upon it.",
-Language: "English, Urdu, Mandarin",
-Country: "USA, UK",
-Awards: "Nominated for 1 Oscar. Another 17 wins & 48 nominations.",
-Poster: "http://ia.media-imdb.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SX300.jpg",
-Metascore: "70",
-imdbRating: "8.3",
-imdbVotes: "810271",
-imdbID: "tt0372784",
-Type: "movie",
-Response: "True"
-}
+[
+  {
+    "favTitle": "Chasing Amy",
+    "favYear": "1997",
+    "favRated": "R",
+    "favGenre": "Comedy, Drama, Romance",
+    "favPlot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTY5ODMyMDY4NF5BMl5BanBnXkFtZTcwNDgwMDEyMQ@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Tommy Boy",
+    "favYear": "1995",
+    "favRated": "PG-13",
+    "favGenre": "Comedy",
+    "favPlot": "An incompetent, immature, and dimwitted heir to an auto parts factory must save the business to keep it out of the hands of his new, con-artist relatives and big business.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTM2Nzc2Njc5OV5BMl5BanBnXkFtZTYwMDMyNDk4._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Dogma",
+    "favYear": "1999",
+    "favRated": "R",
+    "favGenre": "Adventure, Comedy, Fantasy",
+    "favPlot": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Star Wars: Episode IV - A New Hope",
+    "favYear": "1977",
+    "favRated": "PG",
+    "favGenre": "Action, Adventure, Fantasy",
+    "favPlot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Batman Begins",
+    "favYear": "2005",
+    "favRated": "PG-13",
+    "favGenre": "Action, Adventure",
+    "favPlot": "After training with his mentor, Batman begins his war on crime to free the crime-ridden Gotham City from corruption that the Scarecrow and the League of Shadows have cast upon it.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Dark Knight",
+    "favYear": "2008",
+    "favRated": "PG-13",
+    "favGenre": "Action, Crime, Drama",
+    "favPlot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Dark Knight Rises",
+    "favYear": "2012",
+    "favRated": "PG-13",
+    "favGenre": "Action, Thriller",
+    "favPlot": "Eight years after the Joker's reign of anarchy, the Dark Knight is forced to return from his imposed exile to save Gotham City from the brutal guerrilla terrorist Bane with the help of the enigmatic Catwoman.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
+  }
+]
