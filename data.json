@@ -1,27 +1,43 @@
 [
-  {
-    "favTitle": "Dogma",
-    "favYear": "1999",
-    "favRated": "R",
-    "favGenre": "Adventure, Comedy, Fantasy",
-    "favPlot": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_SX300.jpg"
+ 	{
+    "favTitle": "The Avengers",
+    "favYear": "2012",
+    "favRated": "PG-13",
+    "favGenre": "Action, Adventure, Sci-Fi",
+    "favPlot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
   },
-  {
-    "favTitle": "Star Wars: Episode IV - A New Hope",
-    "favYear": "1977",
-    "favRated": "PG",
-    "favGenre": "Action, Adventure, Fantasy",
-    "favPlot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg"
-  },
-  {
+ 	{
     "favTitle": "Batman Begins",
     "favYear": "2005",
     "favRated": "PG-13",
     "favGenre": "Action, Adventure",
     "favPlot": "After training with his mentor, Batman begins his war on crime to free the crime-ridden Gotham City from corruption that the Scarecrow and the League of Shadows have cast upon it.",
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SX300.jpg"
+  },
+   {
+    "favTitle": "The Big Lebowski",
+    "favYear": "1998",
+    "favRated": "R",
+    "favGenre": "Comedy, Crime",
+    "favPlot": "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Boondock Saints",
+    "favYear": "1999",
+    "favRated": "R",
+    "favGenre": "Action, Crime, Thriller",
+    "favPlot": "Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTIzODA2NTUyM15BMl5BanBnXkFtZTYwODQ2Mjk4._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Braveheart",
+    "favYear": "1995",
+    "favRated": "R",
+    "favGenre": "Action, Biography, Drama",
+    "favPlot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX300.jpg"
   },
   {
     "favTitle": "The Dark Knight",
@@ -40,28 +56,12 @@
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
   },
   {
-    "favTitle": "Braveheart",
-    "favYear": "1995",
+    "favTitle": "Dogma",
+    "favYear": "1999",
     "favRated": "R",
-    "favGenre": "Action, Biography, Drama",
-    "favPlot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX300.jpg"
-  },
-  {
-    "favTitle": "The Big Lebowski",
-    "favYear": "1998",
-    "favRated": "R",
-    "favGenre": "Comedy, Crime",
-    "favPlot": "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg"
-  },
-  {
-    "favTitle": "Super Troopers",
-    "favYear": "2001",
-    "favRated": "R",
-    "favGenre": "Comedy, Crime, Mystery",
-    "favPlot": "Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTY1MTExMTE2M15BMl5BanBnXkFtZTYwMDI2OTE5._V1_SX300.jpg"
+    "favGenre": "Adventure, Comedy, Fantasy",
+    "favPlot": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTYwMzkzNDQ1MV5BMl5BanBnXkFtZTcwMjAxNTEzMQ@@._V1_SX300.jpg"
   },
   {
     "favTitle": "The Lego Movie",
@@ -72,22 +72,6 @@
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg"
   },
   {
-    "favTitle": "The Boondock Saints",
-    "favYear": "1999",
-    "favRated": "R",
-    "favGenre": "Action, Crime, Thriller",
-    "favPlot": "Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTIzODA2NTUyM15BMl5BanBnXkFtZTYwODQ2Mjk4._V1_SX300.jpg"
-  },
-  {
-    "favTitle": "The Avengers",
-    "favYear": "2012",
-    "favRated": "PG-13",
-    "favGenre": "Action, Adventure, Sci-Fi",
-    "favPlot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
-  },
-  {
     "favTitle": "Mad Max: Fury Road",
     "favYear": "2015",
     "favRated": "R",
@@ -96,11 +80,36 @@
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SX300.jpg"
   },
   {
+    "favTitle": "Remember the Titans",
+    "favYear": "2000",
+    "favRated": "PG",
+    "favGenre": "Biography, Drama, Sport",
+    "favPlot": "The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTczNTA2MDc0OF5BMl5BanBnXkFtZTYwMTg4MDY2._V1_SX300.jpg"
+  },
+  {
     "favTitle": "Reservoir Dogs",
     "favYear": "1992",
     "favRated": "R",
     "favGenre": "Crime, Drama",
     "favPlot": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX300.jpg"
+  },
+
+  {
+    "favTitle": "Star Wars: Episode IV - A New Hope",
+    "favYear": "1977",
+    "favRated": "PG",
+    "favGenre": "Action, Adventure, Fantasy",
+    "favPlot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Super Troopers",
+    "favYear": "2001",
+    "favRated": "R",
+    "favGenre": "Comedy, Crime, Mystery",
+    "favPlot": "Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTY1MTExMTE2M15BMl5BanBnXkFtZTYwMDI2OTE5._V1_SX300.jpg"
   }
 ]
