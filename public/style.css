@@ -5,10 +5,12 @@ html{
   background: #3F6F93;
   height: 100%;
   width: 100%;
+  font-family: "lato";
 }
+
 body{
-	margin-top: 0;
-	padding-top: 0;
+
+	margin: 20px 0;
 	max-width: 600px;
 	margin-left: auto;
 	margin-right:auto;
@@ -17,18 +19,19 @@ body{
 	box-shadow: 0px 0px 20px 0px #999 inset;
 	padding: 10px;
 }
+
 h1{
 	text-align: center;
 }
 
-.search{
-font-size: 20px;
 
+
+.search{
+font-size: 25px;
 }
 
-.movie, {
+.movie {
 font-size: 15px;
-margin: 0 40px;
 }
 
 #Title, .title{
@@ -42,9 +45,29 @@ margin: 0 40px;
 	float: left;
 	clear: both;
 }
+
 .fav-movie{
 	display: block;
 	margin-left: 0;
 	overflow: auto;
 }
 
+.movie-search{
+	margin-top: 40px;
+}
+
+a {
+	background:  #3F6F93;
+	padding: 15px;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	background: #345E7C;
+
+}
+img{
+	width: 200px;
+	margin: 10px;
+}

@@ -14,8 +14,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
       var favMovies = document.createElement( "div" );
       document.getElementById( "fav-movies-container" ).appendChild( favMovies );
 
-
-
     var title = document.createElement( 'h3' );
     title.classList.add("title");
     title.innerHTML = res[i].favTitle;
@@ -40,11 +38,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
     plot.classList.add("fav-movie");
     plot.innerHTML = "Plot: " + res[i].favPlot;
     favMovies.appendChild( plot );
-
-
     }
   });
   getFavorites.send();
 })();
-
 });

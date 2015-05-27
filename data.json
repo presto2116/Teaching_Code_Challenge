@@ -1,21 +1,5 @@
 [
   {
-    "favTitle": "Chasing Amy",
-    "favYear": "1997",
-    "favRated": "R",
-    "favGenre": "Comedy, Drama, Romance",
-    "favPlot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's gay.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTY5ODMyMDY4NF5BMl5BanBnXkFtZTcwNDgwMDEyMQ@@._V1_SX300.jpg"
-  },
-  {
-    "favTitle": "Tommy Boy",
-    "favYear": "1995",
-    "favRated": "PG-13",
-    "favGenre": "Comedy",
-    "favPlot": "An incompetent, immature, and dimwitted heir to an auto parts factory must save the business to keep it out of the hands of his new, con-artist relatives and big business.",
-    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTM2Nzc2Njc5OV5BMl5BanBnXkFtZTYwMDMyNDk4._V1_SX300.jpg"
-  },
-  {
     "favTitle": "Dogma",
     "favYear": "1999",
     "favRated": "R",
@@ -54,5 +38,69 @@
     "favGenre": "Action, Thriller",
     "favPlot": "Eight years after the Joker's reign of anarchy, the Dark Knight is forced to return from his imposed exile to save Gotham City from the brutal guerrilla terrorist Bane with the help of the enigmatic Catwoman.",
     "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Braveheart",
+    "favYear": "1995",
+    "favRated": "R",
+    "favGenre": "Action, Biography, Drama",
+    "favPlot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Big Lebowski",
+    "favYear": "1998",
+    "favRated": "R",
+    "favGenre": "Comedy, Crime",
+    "favPlot": "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Super Troopers",
+    "favYear": "2001",
+    "favRated": "R",
+    "favGenre": "Comedy, Crime, Mystery",
+    "favPlot": "Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTY1MTExMTE2M15BMl5BanBnXkFtZTYwMDI2OTE5._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Lego Movie",
+    "favYear": "2014",
+    "favRated": "PG",
+    "favGenre": "Animation, Adventure, Comedy",
+    "favPlot": "An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Boondock Saints",
+    "favYear": "1999",
+    "favRated": "R",
+    "favGenre": "Action, Crime, Thriller",
+    "favPlot": "Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTIzODA2NTUyM15BMl5BanBnXkFtZTYwODQ2Mjk4._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "The Avengers",
+    "favYear": "2012",
+    "favRated": "PG-13",
+    "favGenre": "Action, Adventure, Sci-Fi",
+    "favPlot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Mad Max: Fury Road",
+    "favYear": "2015",
+    "favRated": "R",
+    "favGenre": "Action, Adventure, Thriller",
+    "favPlot": "In a stark desert landscape where humanity is broken, two rebels just might be able to restore order: Max, a man of action and of few words, and Furiosa, a woman of action who is looking to make it back to her childhood homeland.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SX300.jpg"
+  },
+  {
+    "favTitle": "Reservoir Dogs",
+    "favYear": "1992",
+    "favRated": "R",
+    "favGenre": "Crime, Drama",
+    "favPlot": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "favPoster": "http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX300.jpg"
   }
 ]
