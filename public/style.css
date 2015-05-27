@@ -9,7 +9,6 @@ html{
 }
 
 body{
-
 	margin: 20px 0;
 	max-width: 600px;
 	margin-left: auto;
@@ -23,8 +22,6 @@ body{
 h1{
 	text-align: center;
 }
-
-
 
 .search{
 font-size: 25px;
